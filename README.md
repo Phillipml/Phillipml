@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phillipml&label=Profile%20views&color=002b57&style=flat" alt="phillipml" /> </p>
 
-- 🔭 I’m currently working on [s.t.a.r.s](https://github.com/Phillipml/s.t.a.r.s)
+- 🔭 I’m currently working on [kathelie]([https://github.com/Phillipml/s.t.a.r.s](https://github.com/Phillipml/kathelie))
 
 - 👨‍💻 All of my projects are available at [https://github.com/Phillipml](https://github.com/Phillipml)
 
