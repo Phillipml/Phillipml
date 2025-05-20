@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phillipml&label=Profile%20views&color=002b57&style=flat" alt="phillipml" /> </p>
 
-- 🔭 I’m currently working on (https://github.com/Phillipml/kathelie)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Phillipml](https://github.com/Phillipml)
 
 - 📫 How to reach me **contato.phillip.menezes@gmail.com**
