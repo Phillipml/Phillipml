@@ -34,7 +34,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phillipml&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Portfolio
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phillipml&repo=portfolio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phillipml&show_icons=true&theme=dark&locale=en&layout=compact" alt="phillipml" /></p>
