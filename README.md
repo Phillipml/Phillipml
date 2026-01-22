@@ -29,5 +29,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
+### Detalhes
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phillipml&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phillipml&repo=Cartorioebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phillipml&show_icons=true&theme=dark&locale=en&layout=compact" alt="phillipml" /></p>
