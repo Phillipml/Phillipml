@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phillipml&label=Profile%20views&color=002b57&style=flat" alt="phillipml" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Phillipml](https://github.com/Phillipml)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Phillipml?tab=repositories)
 
 - 📫 How to reach me **contato.phillip.menezes@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/phillip-menezes-063a39227/](https://www.linkedin.com/in/phillip-menezes-063a39227/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/phillip-menezes-desenvolvedor/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
